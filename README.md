@@ -1,9 +1,16 @@
 # Java_ExamAnalysis
 Java Programming- User will input User ID and 5 exam scores
 
-After user inputs the exams, the program will calculate the average (after dropping the lowest grade) and
-assign a letter grade accordingly.
+Programmer: Joseph Hissong
 
-One of the first Java Programs that I created... Looking back at it, you can see how bad the structure is!
+Professor: Samimi
 
-In the near future, I will go back and recreate it to show the difference a few years can do!
+Fall 2015
+
+Description:
+User will input User ID and 5 exam scores. After user inputs the exam scores, the program will calculate the average (after dropping the lowest grade) and assign a letter grade accordingly.
+
+Input: User ID, (5) Exam Grades
+
+Output: Chart with all exam grades, average, and letter grade.
+
